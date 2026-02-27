@@ -47,7 +47,7 @@ const Footer = () => {
               </li>
               <li>
                 <a href="#districts" className="hover:opacity-80 transition-opacity">
-                  Alappuzha
+                  Pathanamthitta
                 </a>
               </li>
               <li>
